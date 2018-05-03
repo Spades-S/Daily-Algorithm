@@ -1,0 +1,2 @@
+- [X] No1-TwoSum
+- [X] No3-Longest Substring without repeating Characters
