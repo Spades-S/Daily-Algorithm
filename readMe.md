@@ -1,2 +1,14 @@
-- [X] No1-TwoSum
-- [X] No3-Longest Substring without repeating Characters
+- [x] No1—[Two Sum](https://leetcode.com/problems/two-sum)    
+- [x] No3—[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  
+- [x] No5—[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+- [x] No6—[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)    
+- [x] No7—[Reverse Integer](https://leetcode.com/problems/reverse-integer)   
+- [x] No8—[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)   
+- [x] No9—[Palindrome Number](https://leetcode.com/problems/palindrome-number) 
+- [x] No11—[Container With Most Water](https://leetcode.com/problems/container-with-most-water) 
+- [x] No12—[Integer to Roman](https://leetcode.com/problems/integer-to-roman)   
+- [x] No13—[Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+- [x] No14—[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)    
+- [x] No15—[3Sum](https://leetcode.com/problems/3sum)    
+- [x] No16—[3Sum Closest](https://leetcode.com/problems/3sum-closest)  
+- [x] No18—[4Sum](https://leetcode.com/problems/4sum)    
