@@ -12,3 +12,5 @@
 - [x] No15—[3Sum](https://leetcode.com/problems/3sum)    
 - [x] No16—[3Sum Closest](https://leetcode.com/problems/3sum-closest)  
 - [x] No18—[4Sum](https://leetcode.com/problems/4sum)    
+- [x] No26—[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
+- [x] No27—[Remove Element](https://leetcode.com/problems/remove-element)  
