@@ -14,3 +14,10 @@
 - [x] No18—[4Sum](https://leetcode.com/problems/4sum)    
 - [x] No26—[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
 - [x] No27—[Remove Element](https://leetcode.com/problems/remove-element)  
+- [x] No31—[Next Permutation](https://leetcode.com/problems/next-permutation)  
+- [x] No33—[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)    
+- [x] No34—[Search for a Range](https://leetcode.com/problems/search-for-a-range)    
+- [x] No35—[Search Insert Position](https://leetcode.com/problems/search-insert-position)    
+- [x] No39—[Combination Sum](https://leetcode.com/problems/combination-sum)   
+- [x] No40—[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  
+
