@@ -20,4 +20,7 @@
 - [x] No35—[Search Insert Position](https://leetcode.com/problems/search-insert-position)    
 - [x] No39—[Combination Sum](https://leetcode.com/problems/combination-sum)   
 - [x] No40—[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  
+- [x] No48—[Rotate Image](https://leetcode.com/problems/rotate-image)  
+- [x] No53—[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) 
+- [x] No54—[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)    
 
