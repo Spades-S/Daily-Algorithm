@@ -23,4 +23,5 @@
 - [x] No48—[Rotate Image](https://leetcode.com/problems/rotate-image)  
 - [x] No53—[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) 
 - [x] No54—[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)    
+- [x] No55—[Jump Game](https://leetcode.com/problems/jump-game)    
 
