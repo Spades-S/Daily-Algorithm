@@ -24,4 +24,6 @@
 - [x] No53—[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) 
 - [x] No54—[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)    
 - [x] No55—[Jump Game](https://leetcode.com/problems/jump-game)    
+- [x] No56—[Merge Intervals](https://leetcode.com/problems/merge-intervals)   
+- [x] No59—[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  
 

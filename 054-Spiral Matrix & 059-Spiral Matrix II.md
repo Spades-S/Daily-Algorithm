@@ -1,3 +1,5 @@
+### 054 Spiral Matrix
+
 #### Problem
 
 Given a matrix of *m* x *n* elements (*m* rows, *n* columns), return all elements of the matrix in spiral order.
@@ -177,4 +179,55 @@ class Solution {
 ```
 
 
+
+### 059 Spiral Matrix II
+
+#### Solution
+
+解题思路和054一样，分层处理。054 是从分层中读取数据，059是往每一个分层中写入数据。
+
+```java
+class Solution {
+    public int[][] generateMatrix(int n) {
+        int[][] result = new int[n][n];
+        int layer = n/2, i = 0,num = 1; // layer => 总层数，i => 当前是第几层，num => 当前需要填充的数值
+        while(i<=layer){
+            int x = i, y = i;
+            while(y<n-i){
+                result[x][y] = num;
+                num++;
+                y++;
+            }
+            
+            x = i+1; y = n-i-1;
+            while(x<n-i){
+                result[x][y] = num;
+                num++;
+                x++;
+            }
+            
+            if(n-1-i>i){
+                x = n-1-i;
+                y = n-2-i;
+                while(y >= i){
+                    result[x][y] = num;
+                    num++;
+                    y--;
+                }
+                
+                x = n-i-2;
+                y = i;
+                while(x > i){
+                    result[x][y] = num;
+                    num++;
+                    x--;
+                }
+            }
+            
+            i++;
+        }
+        return result;
+    }
+}
+```
 
