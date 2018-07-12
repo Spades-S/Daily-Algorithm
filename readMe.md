@@ -29,3 +29,10 @@
 - [x] No62—[Unique Paths](https://leetcode.com/problems/unique-paths)    
 - [x] No63—[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)    
 
+
+
+
+#### Sort
+
+- [x] No75—[Sort Colors](https://leetcode.com/problems/sort-colors)    
+- [x] No147—[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)   
