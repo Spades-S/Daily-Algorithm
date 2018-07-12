@@ -36,3 +36,4 @@
 
 - [x] No75—[Sort Colors](https://leetcode.com/problems/sort-colors)    
 - [x] No147—[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)   
+- [x] No148—[Sort List](https://leetcode.com/problems/sort-list)    
