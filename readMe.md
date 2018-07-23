@@ -38,3 +38,5 @@
 - [x] No147—[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)   
 - [x] No148—[Sort List](https://leetcode.com/problems/sort-list)    
 - [x] No179—[Largest Number](https://leetcode.com/problems/largest-number)  
+- [x] No242—[Valid Anagram](https://leetcode.com/problems/valid-anagram)  
+- [x] No274—[H-Index](https://leetcode.com/problems/h-index)   
