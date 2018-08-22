@@ -42,3 +42,4 @@
 - [x] No274—[H-Index](https://leetcode.com/problems/h-index)   
 - [x] No324—[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)   
 - [x] No349—[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)    
+- [x] No350—[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
