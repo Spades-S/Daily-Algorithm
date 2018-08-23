@@ -43,3 +43,4 @@
 - [x] No324—[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)   
 - [x] No349—[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)    
 - [x] No350—[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
+- [x] No524—[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) 
