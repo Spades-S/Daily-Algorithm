@@ -45,3 +45,7 @@
 - [x] No350—[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
 - [x] No524—[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) 
 - [x] No767—[Reorganize String](https://leetcode.com/problems/reorganize-string) 
+
+#### Array
+
+- [x] No64—[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)    
