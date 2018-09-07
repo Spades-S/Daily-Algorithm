@@ -49,3 +49,6 @@
 #### Array
 
 - [x] No64—[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)    
+- [x] No66—[Plus One](https://leetcode.com/problems/plus-one)   
+- [x] No73—[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)    
+- [ ] No74—[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  
