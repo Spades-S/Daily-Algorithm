@@ -55,5 +55,8 @@
 - [ ] No78—[Subsets](https://leetcode.com/problems/subsets/)
 - [x] No80—[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [x] No118—[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) 
-- [ ] No119—[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)    
+- [x] No119—[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)    
+- [x] No121—[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) 
+- [x] No122—[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)    
+- [ ] No167—[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)    
 
