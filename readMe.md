@@ -48,15 +48,18 @@
 
 #### Array
 
-- [x] No64—[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)    
+- [x] No64—[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 - [x] No66—[Plus One](https://leetcode.com/problems/plus-one)   
 - [x] No73—[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)    
 - [ ] No74—[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  
 - [ ] No78—[Subsets](https://leetcode.com/problems/subsets/)
-- [x] No80—[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [ ] No79—[Word Search](https://leetcode.com/problems/word-search)  
+- [x] No80—[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
+- [x] No88—[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [x] No118—[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) 
 - [x] No119—[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)    
 - [x] No121—[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) 
 - [x] No122—[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)    
 - [ ] No167—[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)    
+- [ ] No212—[Word Search II](https://leetcode.com/problems/word-search-ii)   
 
