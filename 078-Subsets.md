@@ -51,3 +51,41 @@ class Solution {
 
 【思路-3】构造二叉树
 
+```
+                        []           
+                   /          \        
+                  /            \     
+                 /              \
+              [1]                []          --------------------   1
+           /       \           /    \
+          /         \         /      \        
+       [1 2]       [1]       [2]     []      --------------------   2   
+      /     \     /   \     /   \    / \
+  [1 2 3] [1 2] [1 3] [1] [2 3] [2] [3] []   --------------------   3 
+```
+
+对于numbers数组中的每一个元素在子集中只有两种状态，要么存在要么不存在，可以根据这个性质构造一棵二叉树，左子树代表选择该元素，右子树代表不选择。叶子结点的集合就是子集集合。
+
+```java 
+class Solution {
+    public List<List<Integer>> result = new ArrayList<List<Integer>>();
+    public List<List<Integer>> subsets(int[] nums) {
+        dfs(0, nums, new ArrayList<Integer>());
+        return result;
+    }
+    private void dfs(int nth, int[] nums, List<Integer> list){
+        if(nth == nums.length){
+            result.add(list);
+            return;
+        }
+        dfs(nth+1, nums, new ArrayList(list));
+        list.add(nums[nth]);
+        dfs(nth+1, nums, new ArrayList(list));
+    }
+}
+```
+
+
+
+
+
