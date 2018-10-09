@@ -53,7 +53,7 @@
 - [x] No73—[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)    
 - [x] No74—[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  
 - [x] No78—[Subsets](https://leetcode.com/problems/subsets/)
-- [ ] No79—[Word Search](https://leetcode.com/problems/word-search)  
+- [x] No79—[Word Search](https://leetcode.com/problems/word-search)  
 - [x] No80—[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
 - [x] No81— [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 - [x] No88—[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -63,5 +63,6 @@
 - [x] No122—[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)    
 - [x] No167—[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)    
 - [ ] No212—[Word Search II](https://leetcode.com/problems/word-search-ii)   
-- [ ] No90—[Subsets II](https://leetcode.com/problems/subsets-ii/solution/)
+- [x] No90—[Subsets II](https://leetcode.com/problems/subsets-ii/solution/)
+- [ ] No105—[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
