@@ -64,5 +64,7 @@
 - [x] No167—[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)    
 - [ ] No212—[Word Search II](https://leetcode.com/problems/word-search-ii)   
 - [x] No90—[Subsets II](https://leetcode.com/problems/subsets-ii/solution/)
-- [ ] No105—[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+- [x] No105—[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+- [x] No106-[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
+- [x] No169-[Majority Element](https://leetcode.com/problems/majority-element/description/)
 
