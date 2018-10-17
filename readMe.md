@@ -67,4 +67,6 @@
 - [x] No105—[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 - [x] No106-[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 - [x] No169-[Majority Element](https://leetcode.com/problems/majority-element/description/)
+- [x] No120-[Triangle](https://leetcode.com/problems/triangle)
+- [x] No152-[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 
