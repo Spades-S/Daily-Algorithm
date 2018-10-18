@@ -1,4 +1,4 @@
-### 767
+### 767 Reorganize String
 
 #### Problem
 

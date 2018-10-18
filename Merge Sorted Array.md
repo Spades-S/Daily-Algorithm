@@ -1,4 +1,4 @@
-### 088
+### 088 Merge Sorted Array
 
 #### Problem
 
