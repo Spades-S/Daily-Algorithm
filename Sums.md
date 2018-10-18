@@ -1,6 +1,6 @@
-###001  Two Sum
+### 001  Two Sum
 
-####Problem
+#### Problem
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
