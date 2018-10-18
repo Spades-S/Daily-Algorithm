@@ -15,7 +15,7 @@
 - [x] No26—[Remove Duplicates from Sorted Array]()  
 - [x] No27—[Remove Element](https://github.com/Spades-S/LEETCODE/blob/master/Remove%20Element.md)  
 - [x] No31—[Next Permutation]()  
-- [x] No33—[Search in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Search%20in%20Rotated%20Sorted%20Array.md)    
+- [x] No33—[Search in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Sorted%20Array.md)    
 - [x] No34—[Search for a Range]()    
 - [x] No35—[Search Insert Position]()    
 - [x] No39—[Combination Sum]()   
@@ -55,7 +55,7 @@
 - [x] No78—[Subsets](https://github.com/Spades-S/LEETCODE/blob/master/Subsets.md)
 - [x] No79—[Word Search](https://github.com/Spades-S/LEETCODE/blob/master/Word%20Search.md)  
 - [x] No80—[ Remove Duplicates from Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md)  
-- [x] No81— [Search in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Search%20in%20Rotated%20Sorted%20Array.md)
+- [x] No81— [Search in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Sorted%20Array.md)
 - [x] No88—[Merge Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Merge%20Sorted%20Array.md)
 - [x] No118—[Pascal's Triangle]() 
 - [x] No119—[Pascal's Triangle II]()    
@@ -69,5 +69,6 @@
 - [x] No169-[Majority Element](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md)
 - [x] No120-[Triangle](https://github.com/Spades-S/LEETCODE/blob/master/Triangle.md)
 - [x] No152-[Maximum Product Subarray](https://github.com/Spades-S/LEETCODE/blob/master/Maximum%20SubArray.md)
-
+- [x] No153-[Find Minimum in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Sorted%20Array.md)
+- [x] No154-[154 Find Minimum in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Sorted%20Array.md)
 
