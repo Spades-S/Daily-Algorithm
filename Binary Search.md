@@ -366,6 +366,132 @@ class Solution {
 ```
 
 
+### 162 Find Peak Element
+
+#### Problem
+
+A peak element is an element that is greater than its neighbors.
+
+Given an input array nums, where nums[i] ≠ nums[i+1], find a peak element and return its index.
+
+The array may contain multiple peaks, in that case return the index to any one of the peaks is fine.
+
+You may imagine that nums[-1] = nums[n] = -∞.
+
+#### Examples
+
+```
+Input: nums = [1,2,3,1]
+Output: 2
+Explanation: 3 is a peak element and your function should return the index number 2.
+
+```
+
+```
+Input: nums = [1,2,1,3,5,6,4]
+Output: 1 or 5 
+Explanation: Your function can return either index number 1 where the peak element is 2, 
+             or index number 5 where the peak element is 6.
+
+```
+
+#### Note
+
+Your solution should be in logarithmic complexity.
+
+
+#### Solution
+【分析】如果这道题没有时间复杂度是O(log n) 的要求的话，暴搜也不失为一个方法。
+
+【暴搜】
+``` java
+class Solution {
+    public int findPeakElement(int[] nums) {
+        int len = nums.length;
+        if(len == 1) return 0;
+        for(int i = 0; i < len; i++){
+            if(i == 0){
+                if(nums[0] > nums[1]) return 0;
+            }else if(i == len - 1){
+                if(nums[i] > nums[i - 1]) return i;
+            }else{
+                if(nums[i] > nums[i-1] && nums[i] > nums[i+1]) return i;
+            }
+        }
+        return 0;
+    }
+}
+
+```
+
+但是不巧的是，题目要求了时间复杂度，并且时间复杂度是 O(log n)，二分查找时符合条件的。试试二分查找。二分查找最关键的就是将mid值赋给left还是right，如果能找到这个点，就解决了一半了。我们来看一下这个题，要找的是局部的峰值：
+* 当nums[mid] > nums[mid+1]时，[left, mid]区间之内必定存在局部峰值
+* 当nums[mid] < nums[mid+!]时，[mid+1, right]区间之内必定存在局部峰值
+
+找到了mid赋值方向之后，就是算法实现了，常见的二分查找实现方式：
+* 左闭右开
+    * mid -> left: left = mid + 1
+    * mid -> right: right = mid
+    * 截止条件: left < right
+    * 起始条件: left = 0, right = nums.length
+    * 如果没有找到: left = right
+* 左闭右闭
+    * mid -> left: left = mid + 1
+    * mid -> right: right = mid - 1
+    * 截止条件: left <= right
+    * 起始条件: left = 0, right = nums.length - 1
+    * 如果没有找到: left = right + 1
+
+【问题1】为什么左闭右开实现截止条件是 left < right，而左闭右闭实现截止条件是 left <= right
+【回答】因为当left = right时，对于左闭右开来说，此时该值是取不到的，而对左闭右闭，是可以取到的。
+
+对于本题来说，如果使用左闭右闭的方式，最终需要判断nums[left] 和 nums[right]之间的大小关系，并且有可能出现 right = -1 或者是 left = nums.length 的情况出现。如果使用左闭右开的方式，将right的初始值设置为 nums.length - 1，我们可以确保最终 left = right 且 该值在[0, nums.length - 1]之间，且该值为所求值。
+
+【疑问1】如果nums数组的最后一位为所求峰值怎么办？
+【回答】举个例子，假定数组为[1, 2, 3, 4]，此时峰值为第 3 位。 使用左闭右开方式，初始值 right = 3，最终会有 right = left = 3，最终只需要返回 left或者right即可。如果出现在数组中间最后会回到初始值为数组最后一位的情况。
+
+``` java
+class Solution {
+    public int findPeakElement(int[] nums) {
+        int L = 0, R = nums.length - 1;
+        while(L < R){
+            int mid = L + (R - L)/2;
+            if(nums[mid] > nums[mid + 1]){
+                R = mid;
+            }else{
+                L = mid + 1;
+            }
+        }
+        return R;
+    }
+}
+```
+
+
+
+### Binary Search
+
+* 左闭右开
+    * 当target > nums[mid], 此时有 mid -> left: left = mid + 1
+    * 当target < nums[mid], 此时有 mid -> right: right = mid
+    * 当target = nums[mid], 直接返回
+    * 截止条件: left < right
+    * 起始条件: left = 0, right = nums.length
+    * 如果没有找到: left = right
+* 左闭右闭
+    * 当target > nums[mid], 此时有 mid -> left: left = mid + 1
+    * 当target < nums[mid], 此时有 mid -> right: right = mid - 1
+    * 当target = nums[mid], 直接返回
+    * 截止条件: left <= right
+    * 起始条件: left = 0, right = nums.length - 1
+    * 如果没有找到: left = right + 1
+
+【问题1】为什么左闭右开实现截止条件是 left < right，而左闭右闭实现截止条件是 left <= right
+【回答】因为当left = right时，对于左闭右开来说，此时该值是取不到的，而对左闭右闭，是可以取到的。
+
+
+
+
 
 
 
