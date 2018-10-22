@@ -21,7 +21,7 @@
 - [x] No39—[Combination Sum]()   
 - [x] No40—[Combination Sum II]()  
 - [x] No48—[Rotate Image]()  
-- [x] No53—[Maximum Subarray](https://github.com/Spades-S/LEETCODE/blob/master/Maximum%20SubArray.md#053-maximum-subarray) 
+- [x] No53—[Maximum Subarray](https://github.com/Spades-S/LEETCODE/blob/master/SubArray.md#053-maximum-subarray) 
 - [x] No54—[Spiral Matrix](https://github.com/Spades-S/LEETCODE/blob/master/Spiral%20Matrix.md#054-spiral-matrix)    
 - [x] No55—[Jump Game](https://github.com/Spades-S/LEETCODE/blob/master/Jump%20Game.md#055-Jump-Game)    
 - [x] No56—[Merge Intervals]()   
@@ -68,8 +68,12 @@
 - [x] No106-[Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Construct%20Binary%20Tree.md#106-construct-binary-tree-from-inorder-and-postorder-traversal)
 - [x] No169-[Majority Element](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md#169-majority-element)
 - [x] No120-[Triangle](https://github.com/Spades-S/LEETCODE/blob/master/Triangle.md#120-Triangle)
-- [x] No152-[Maximum Product Subarray](https://github.com/Spades-S/LEETCODE/blob/master/Maximum%20SubArray.md#053-maximum-subarray)
+- [x] No152-[Maximum Product Subarray](https://github.com/Spades-S/LEETCODE/blob/master/SubArray.md#152-maximum-product-subarray)
 - [x] No153-[Find Minimum in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#153-find-minimum-in-rotated-sorted-array)
 - [x] No154-[Find Minimum in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#154-find-minimum-in-rotated-sorted-array-ii)
-- [x] No162-[Find Peak Element](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#162-Find-Peak-Element)
+- [x] No162-[Find Peak Element](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#162-find-peak-element)
+- [ ] No189-[Rotate Array]()
+- [x] No209-[Minimum Size Subarray Sum](https://github.com/Spades-S/LEETCODE/blob/master/SubArray.md#209-Minimum-Size-Subarray-Sum)
+- [ ] No217-[Contains Duplicate]()
+
 
