@@ -72,7 +72,7 @@
 - [x] No153-[Find Minimum in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#153-find-minimum-in-rotated-sorted-array)
 - [x] No154-[Find Minimum in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#154-find-minimum-in-rotated-sorted-array-ii)
 - [x] No162-[Find Peak Element](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#162-find-peak-element)
-- [ ] No189-[Rotate Array]()
+- [ ] No189-[Rotate Array](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Array.md#189-rotated-array)
 - [x] No209-[Minimum Size Subarray Sum](https://github.com/Spades-S/LEETCODE/blob/master/SubArray.md#209-Minimum-Size-Subarray-Sum)
 - [ ] No217-[Contains Duplicate]()
 
