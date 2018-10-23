@@ -74,6 +74,10 @@
 - [x] No162-[Find Peak Element](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#162-find-peak-element)
 - [ ] No189-[Rotate Array](https://github.com/Spades-S/LEETCODE/blob/master/Rotated%20Array.md#189-rotated-array)
 - [x] No209-[Minimum Size Subarray Sum](https://github.com/Spades-S/LEETCODE/blob/master/SubArray.md#209-Minimum-Size-Subarray-Sum)
+- [ ] No216-[Combination Sum III]()
 - [ ] No217-[Contains Duplicate]()
+- [ ] No219-[Contains Duplicate II]()
+- [ ] No228-[Summary Ranges]()
+- [ ] No229-[Majority Element II](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md#229-majority-element-ii)
 
 
