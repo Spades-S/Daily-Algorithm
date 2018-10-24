@@ -77,7 +77,7 @@
 - [x] No216-[Combination Sum III](https://github.com/Spades-S/LEETCODE/blob/master/Combination%20Sum.md#216-combination-sum-iii)
 - [x] No217-[Contains Duplicate](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#217-contains-duplicate)
 - [x] No219-[Contains Duplicate II](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#219-contains-duplicate-ii)
-- [ ] No228-[Summary Ranges]()
-- [ ] No229-[Majority Element II](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md#229-majority-element-ii)
+- [x] No228-[Summary Ranges](https://github.com/Spades-S/LEETCODE/blob/master/Summary%20Ranges.md#228-summary-ranges)
+- [x] No229-[Majority Element II](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md#229-majority-element-ii)
 
 
