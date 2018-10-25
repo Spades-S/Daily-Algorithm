@@ -81,6 +81,6 @@
 - [x] No229-[Majority Element II](https://github.com/Spades-S/LEETCODE/blob/master/Majority%20Element.md#229-majority-element-ii)
 
 - [x] No238-[Product of Array Except Self](https://github.com/Spades-S/LEETCODE/blob/master/Product%20of%20Array%20Except%20Self.md#238-prodyct-of-array-except-self)
-- [x] No268-[Missing Number]()
+- [x] No268-[Missing Number](https://github.com/Spades-S/LEETCODE/blob/master/Missing%20Number.md#238-missing-number)
 
 
