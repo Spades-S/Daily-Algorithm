@@ -12,7 +12,7 @@
 - [x] No15—[3Sum](https://github.com/Spades-S/LEETCODE/blob/master/Sums.md#015-3sum)    
 - [x] No16—[3Sum Closest]()  
 - [x] No18—[4Sum](https://github.com/Spades-S/LEETCODE/blob/master/Sums.md#018-4sum)    
-- [x] No26—[Remove Duplicates from Sorted Array]()  
+- [x] No26—[Remove Duplicates from Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Bi-Pointer.md#026-remove-duplicates-from-sorted-array)  
 - [x] No27—[Remove Element](https://github.com/Spades-S/LEETCODE/blob/master/Remove%20Element.md#027-Remove-Element)  
 - [x] No31—[Next Permutation]()  
 - [x] No33—[Search in Rotated Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#033-search-in-rotated-sorted-array)    
@@ -54,7 +54,7 @@
 - [x] No74—[Search a 2D Matrix](https://github.com/Spades-S/LEETCODE/blob/master/Search%20a%202D%20Matrix.md#074-Search-a-2D-Matrix)  
 - [x] No78—[Subsets](https://github.com/Spades-S/LEETCODE/blob/master/Subsets.md#078-subsets)
 - [x] No79—[Word Search](https://github.com/Spades-S/LEETCODE/blob/master/Word%20Search.md#079-word-search)  
-- [x] No80—[Remove Duplicates from Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md#080-Remove-Duplicates-from-Sorted-Array-II)  
+- [x] No80—[Remove Duplicates from Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Bi-Pointer.md#080-remove-duplicates-from-sorted-array-ii)  
 - [x] No81— [Search in Rotated Sorted Array II](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#081-search-in-rotated-sorted-array-ii)
 - [x] No88—[Merge Sorted Array](https://github.com/Spades-S/LEETCODE/blob/master/Merge%20Sorted%20Array.md#088-Merge-Sorted-Array)
 - [x] No118—[Pascal's Triangle]() 
@@ -82,5 +82,9 @@
 
 - [x] No238-[Product of Array Except Self](https://github.com/Spades-S/LEETCODE/blob/master/Product%20of%20Array%20Except%20Self.md#238-prodyct-of-array-except-self)
 - [x] No268-[Missing Number](https://github.com/Spades-S/LEETCODE/blob/master/Missing%20Number.md#238-missing-number)
+
+- [x] No283-[Move Zeroes](https://github.com/Spades-S/LEETCODE/blob/master/Bi-Pointer.md#283-move-zeroes)
+
+- [ ] No287-[Find the Duplicate Number]()
 
 
