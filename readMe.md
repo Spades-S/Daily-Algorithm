@@ -85,6 +85,6 @@
 
 - [x] No283-[Move Zeroes](https://github.com/Spades-S/LEETCODE/blob/master/Bi-Pointer.md#283-move-zeroes)
 
-- [ ] No287-[Find the Duplicate Number]()
+- [ ] No287-[Find the Duplicate Number]()  [二分法](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#287-find-the-duplicate-number)  [Floyd判断算法](https://github.com/Spades-S/LEETCODE/blob/master/Circle%20Detection.md#287-find-the-duplicate-number)
 
-
+- [ ] No289-[Game of Life]()
