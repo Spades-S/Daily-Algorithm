@@ -88,3 +88,4 @@
 - [x] No287-[Find the Duplicate Number]()  [二分法](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Search.md#287-find-the-duplicate-number)  [Floyd判断算法](https://github.com/Spades-S/LEETCODE/blob/master/Circle%20Detection.md#287-find-the-duplicate-number)
 
 - [x] No289-[Game of Life](https://github.com/Spades-S/LEETCODE/blob/master/Game%20of%20Life.md#289-game-of-life)
+- [x] No380-[Insert Delete GetRandom O(1)](https://github.com/Spades-S/LEETCODE/blob/master/Insert%20Delete%20GetRandom%20O(1).md#380-insert-delete-getrandom-O(1))  
