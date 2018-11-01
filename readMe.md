@@ -90,3 +90,6 @@
 - [x] No289-[Game of Life](https://github.com/Spades-S/LEETCODE/blob/master/Game%20of%20Life.md#289-game-of-life)
 - [x] No380-[Insert Delete GetRandom O(1)](https://github.com/Spades-S/LEETCODE/blob/master/Insert%20Delete%20GetRandom%20O(1).md#380-insert-delete-getrandom-O(1))  
 - [x] No414-[Third Maximum Number](https://github.com/Spades-S/LEETCODE/blob/master/Third%20Maximum%20Number.md#414-third-maximum-number)
+
+- [x] No442-[Find All Duplicates in an Array](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#442-find-all-duplicates-in-an-array)
+- [x] No448-[Find All Numbers Disappeared in an Array](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#448-find-all-numbers-disappeard-in-an-array)

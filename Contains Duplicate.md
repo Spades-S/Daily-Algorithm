@@ -118,3 +118,105 @@ class Solution {
 }
 ```
 
+
+### 442 Find All Duplicates in an Array
+
+#### Problem
+Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+
+Find all the elements that appear twice in this array.
+
+Could you do it without extra space and in O(n) runtime?
+
+#### Example
+```
+Input:
+[4,3,2,7,8,2,3,1]
+
+Output:
+[2,3]
+
+```
+
+#### Solution
+【分析】如果可以使用额外的空间，这题很容易做，利用HashSet判断当前元素是否是重复元素即可。
+【HashSet】
+``` java
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+        List<Integer> res = new ArrayList<Integer>();
+        HashSet<Integer> set = new HashSet<Integer>();
+        for(int num : nums){
+            if(set.contains(num)){
+               res.add(num); 
+            }else{
+                set.add(num);
+            }
+        }
+        return res;
+    }
+}
+```
+
+但是很不幸，不可以使用额外的存储空间。观察题目提供的条件，数组元素的取值范围是[1, n]，如果我们将元素值减一当做数组的index，即将a[i] - 1 当做index，并且改变nums[index]的符号，由正变为负，如果数组中有重复元素，那么当第二次找到重复元素时，此时的nums[index]必定为负。
+
+``` java
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+        List<Integer> res = new ArrayList<Integer>();
+        for(int num : nums){
+					int index = Math.abs(num) - 1; // 这里需要使用绝对值，因为index的获取应该是用原数组中元素的值，这里有可能是负数
+					if(nums[index] < 0){
+						res.add(index + 1);
+					} 
+					else{
+						nums[index] = -nums[index];
+					}
+        }
+        return res;
+    }
+}
+
+```
+
+
+### 448 Find All Numbers Disappeard in an Array
+
+#### Problem
+Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+
+Find all the elements of [1, n] inclusive that do not appear in this array.
+
+Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
+
+#### Example
+```
+Input:
+[4,3,2,7,8,2,3,1]
+
+Output:
+[5,6]
+
+```
+
+#### Solution
+【分析】本题可以当做是 `442` 的“补集“，一个寻找重复元素，一个寻找缺失元素。按照 `442` 的思路，将nums[i] - 1 当做index，改变nums[index]的符号，对于重复出现的元素只改变其对应的nums[index]符号一次，再次遍历数组，值为正数的元素的索引加一即是缺失的元素。
+
+``` java 
+
+class Solution {
+    public List<Integer> findDisappearedNumbers(int[] nums) {
+			List<Integer> res = new ArrayList<Integer>();
+			for(int num : nums){
+				int index = Math.abs(num) - 1;
+				if(nums[index] > 0) nums[index] = - nums[index];
+			}
+			for(int i = 0; i < nums.length; i++){
+				if(nums[i] > 0) res.add(i + 1);
+			}
+      return res;
+    }
+}
+
+```
+
