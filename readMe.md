@@ -93,3 +93,7 @@
 
 - [x] No442-[Find All Duplicates in an Array](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#442-find-all-duplicates-in-an-array)
 - [x] No448-[Find All Numbers Disappeared in an Array](https://github.com/Spades-S/LEETCODE/blob/master/Contains%20Duplicate.md#448-find-all-numbers-disappeard-in-an-array)
+
+
+#### HashTable
+- [x] No36-[Valid Sudoku](https://github.com/Spades-S/LEETCODE/blob/master/Valid%Sudoku.md#036-valid-sudoku)
