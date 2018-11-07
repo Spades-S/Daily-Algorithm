@@ -96,5 +96,9 @@
 
 
 #### HashTable
-- [x] No36-[Valid Sudoku](https://github.com/Spades-S/LEETCODE/blob/master/Valid%Sudoku.md#036-valid-sudoku)
-- [x] No49-[Group Anagrams](https://github.com/Spades-S/LEETCODE/blob/master/Group%Anagrams.md#049-group-anagrams)
+- [x] No36-[Valid Sudoku](https://github.com/Spades-S/LEETCODE/blob/master/Valid%20Sudoku.md#036-valid-sudoku)
+- [x] No49-[Group Anagrams](https://github.com/Spades-S/LEETCODE/blob/master/Group%20Anagrams.md#049-group-anagrams)
+- [x] No94-[Binary Tree Inorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#094-binary-tree-inorder-traversal)
+
+#### Tree
+- [ ] No144-[Binary Tree Preorder Traversal]()
