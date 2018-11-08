@@ -101,4 +101,4 @@
 - [x] No94-[Binary Tree Inorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#094-binary-tree-inorder-traversal)
 
 #### Tree
-- [ ] No144-[Binary Tree Preorder Traversal]()
+- [ ] No144-[Binary Tree Preorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#144-binary-tree-preorder-traversal)
