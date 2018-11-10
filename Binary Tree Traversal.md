@@ -230,3 +230,66 @@ class Solution {
     }
 }
 ```
+
+【迭代-线索树】
+中序遍历和先序遍历最大的不同在于遍历顺序，是先左子树再根结点还是先根结点再左子树。我们知道在线索二叉树中，对于有左子树的根结点在遍历过程中是会被遍历两次的，第一次是在遍历其左子树之前，第二次是在其左子树遍历完成之后。对于中序遍历，要在左子树遍历完成之后再去遍历根结点，所以在List中添加根结点是在第二次遍历到根结点时。而对于先序遍历，须在遍历左子树之前去遍历根结点，所以在List中添加根结点的时机是在第一次遍历到根结点时。
+
+``` java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+  public List<Integer> preorderTraversal(TreeNode root) {
+      List<Integer> list = new ArrayList<Integer>();
+			TreeNode cur = root, pre = null;
+			while(cur != null){
+				if(cur.left == null){
+					list.add(cur.val);
+					cur = cur.right;
+				}else{
+					pre = cur.left;
+					while(pre.right != null && pre.right != cur)
+						pre = pre.right;
+					if(pre.right == null){
+						pre.right = cur;
+						list.add(cur.val);
+						cur = cur.left;
+					}else{
+						cur= cur.right;
+						pre.right = null;
+					}
+				}
+			}
+			return list;
+  }
+}
+
+```
+
+
+### 145 Binary Tree Postorder Traversal
+
+#### Problem
+Given a binary tree, return the postorder traversal of its nodes' values.
+
+#### Example
+Input: [1,null,2,3]
+   1
+    \
+     2
+    /
+   3
+
+Output: [3,2,1]
+
+#### Follow up
+Recursive solution is trivial, could you do it iteratively?
+
+#### Solution
+【分析】
