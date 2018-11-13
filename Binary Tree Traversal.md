@@ -292,4 +292,71 @@ Output: [3,2,1]
 Recursive solution is trivial, could you do it iteratively?
 
 #### Solution
-【分析】
+【递归】最容易的方法。
+``` java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+			List<Integer> res = new ArrayList<Integer>();
+			helper(root, res);
+			return res;
+    }
+		public void helper(TreeNode node, List<Integer> list){
+			if(node == null) return;
+			helper(node.left, list);
+			helper(node.right, list);
+			list.add(node.val);
+		}
+}
+```
+
+
+【递归-用栈】
+后续遍历二叉树，按照先左子树再右子树最后根结点的顺序进行。对于中序遍历，当当前结点cur不为空时(cur!=null)将其入栈，并将其左子结点赋给它(cur = cur.left)，直到当前结点为空(cur == null)。随后，立即吐出栈顶结点，并保存其值。之所以这里可以立即吐出并保存其值，是因为：对于当前结点而言，其左子树为空，由于中序遍历在左子树为空时，应该读取根结点。后续遍历和中序遍历的不同在于，当当前结点的左子树为空时，应该观察当前结点的右子树是否为空，如果为空，则吐出当前节点，保存当前结点值，如果不为空，则应该接着遍历当前结点的右子树。
+
+【BUG-后续遍历中的无限循环】
+![20181113175706.png](https://i.loli.net/2018/11/13/5beaa00ed2dfe.png)
+
+
+``` java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+			List<Integer> res = new ArrayList<Integer>();
+			Stack<TreeNode> stack = new Stack<TreeNode>();
+			TreeNode cur = root, poped = root;
+			while(cur != null || !stack.isEmpty()){
+				while(cur != null){
+					stack.push(cur);
+					cur = cur.left;
+				}
+				cur = stack.peek();
+				if(cur.right != null && cur.right != poped){
+					cur = cur.right;
+				}else{
+					res.add(cur.val);
+					poped = stack.pop();
+					cur = null;
+				}
+			}
+			return res;
+    }
+}
+```
+

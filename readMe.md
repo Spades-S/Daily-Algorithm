@@ -100,5 +100,12 @@
 - [x] No49-[Group Anagrams](https://github.com/Spades-S/LEETCODE/blob/master/Group%20Anagrams.md#049-group-anagrams)
 - [x] No94-[Binary Tree Inorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#094-binary-tree-inorder-traversal)
 
+- [ ] No136-[Single Number]()
+- [ ] No138-[Copy List with Random Pointer]()
+
+
 #### Tree
-- [ ] No144-[Binary Tree Preorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#144-binary-tree-preorder-traversal)
+- [x] No144-[Binary Tree Preorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#144-binary-tree-preorder-traversal)
+- [x] No145-[Binary Tree Postorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#145-binary-tree-postorder-traversal)
+
+
