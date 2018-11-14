@@ -100,7 +100,7 @@
 - [x] No49-[Group Anagrams](https://github.com/Spades-S/LEETCODE/blob/master/Group%20Anagrams.md#049-group-anagrams)
 - [x] No94-[Binary Tree Inorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#094-binary-tree-inorder-traversal)
 
-- [ ] No136-[Single Number]()
+- [x] No136-[Single Number](https://github.com/Spades-S/LEETCODE/blob/master/Single%20Number.md#136-single-number)
 - [ ] No138-[Copy List with Random Pointer]()
 
 
