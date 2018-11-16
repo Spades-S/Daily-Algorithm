@@ -71,13 +71,14 @@ public class Solution {
 
 			// 拆分
 			RandomListNode res = head.next;
-			RandomListNode curOld = head;
-			RandomListNode curNew = head.next;
-			while(curNew.next != null){
-				curOld.next = curNew.next;
-				curNew.next = curNew.next.next;
-				curOld = curOld.next;
-				curNew = curOld.next;
+			RandomListNode cur = head;
+			while(cur != null){
+				RandomListNode temp = cur.next;
+				cur.next = temp.next;
+				if(temp.next != null){
+					temp.next = temp.next.next;
+				}
+				cur = cur.next;
 			}
 			return res;
     }
@@ -101,3 +102,5 @@ public class Solution {
 
 }
 ```
+
+需要关注下怎么将一个链表拆分成两个。
