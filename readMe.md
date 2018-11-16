@@ -101,10 +101,13 @@
 - [x] No94-[Binary Tree Inorder Traversal](https://github.com/Spades-S/LEETCODE/blob/master/Binary%20Tree%20Traversal.md#094-binary-tree-inorder-traversal)
 
 - [x] No136-[Single Number](https://github.com/Spades-S/LEETCODE/blob/master/Single%20Number.md#136-single-number)
-- [ ] No138-[Copy List with Random Pointer](https://github.com/Spades-S/LEETCODE/blob/master/Copy%20List%20with%20Random%20Pointer.md#138-copy-list-with-random-pointer)
-- [ ] No166-[Fraction to Recurring Decimal]()
+- [x] No138-[Copy List with Random Pointer](https://github.com/Spades-S/LEETCODE/blob/master/Copy%20List%20with%20Random%20Pointer.md#138-copy-list-with-random-pointer)
+- [x] No166-[Fraction to Recurring Decimal](https://github.com/Spades-S/LEETCODE/blob/master/Fraction%20to%20Recurring%20Decimal.md#166-fraction-to-recurring-decimal)
 - [ ] No187-[Repeated DNA Sequences]()
 - [ ] No202-[Happy Number]()
+- [ ] No204-[Count Primes]()
+- [ ] No205-[Isomorphic Strings]()
+- [ ] No290-[Word Pattern]()
 
 
 #### Tree
