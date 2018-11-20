@@ -101,7 +101,7 @@
 - [x] No138-[Copy List with Random Pointer](https://github.com/Spades-S/LEETCODE/blob/master/Copy%20List%20with%20Random%20Pointer.md#138-copy-list-with-random-pointer)
 - [x] No166-[Fraction to Recurring Decimal](https://github.com/Spades-S/LEETCODE/blob/master/Fraction%20to%20Recurring%20Decimal.md#166-fraction-to-recurring-decimal)
 - [ ] No187-[Repeated DNA Sequences](https://github.com/Spades-S/LEETCODE/blob/master/Repeated%20DNA%20Sequences.md#138-repeated-dna-sequences)
-- [ ] No202-[Happy Number]()
+- [ ] No202-[Happy Number](https://github.com/Spades-S/LEETCODE/blob/master/Happy%20Number.md#138-happy-number)
 - [ ] No204-[Count Primes]()
 - [ ] No205-[Isomorphic Strings]()
 - [ ] No290-[Word Pattern]()
