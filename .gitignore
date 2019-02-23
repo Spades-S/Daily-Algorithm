@@ -1,0 +1,14 @@
+# backup
+.back/*
+
+# npm
+node_modules/*
+package.json
+package-lock.json
+
+# yarn
+yarn.lock
+yarn-error.json
+
+# config
+config.json
