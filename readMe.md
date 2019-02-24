@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-191/945(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-193/949(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-63-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-125-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-64-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-126-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-02-23</b>
+    <b>Last updated: 2019-02-24</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -190,6 +190,7 @@
 |485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)| [javascript](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.js) [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|54.42%||
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle/)| [java](.&#x2F;solutions&#x2F;492.construct-the-rectangle&#x2F;construct-the-rectangle.java) [javascript](.&#x2F;solutions&#x2F;492.construct-the-rectangle&#x2F;construct-the-rectangle.js)|Easy|48.34%||
 |496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i/)| [java](.&#x2F;solutions&#x2F;496.next-greater-element-i&#x2F;next-greater-element-i.java) [javascript](.&#x2F;solutions&#x2F;496.next-greater-element-i&#x2F;next-greater-element-i.js)|Easy|58.61%||
+|498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse/)| [javascript](.&#x2F;solutions&#x2F;498.diagonal-traverse&#x2F;diagonal-traverse.js)|Medium|44.95%||
 |500|[keyboard-row](https://leetcode.com/problems/keyboard-row/)| [javascript](.&#x2F;solutions&#x2F;500.keyboard-row&#x2F;keyboard-row.js) [java](.&#x2F;solutions&#x2F;500.keyboard-row&#x2F;keyboard-row.java)|Easy|61.60%||
 |501|[find-mode-in-binary-search-tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;501.find-mode-in-binary-search-tree&#x2F;find-mode-in-binary-search-tree.java)|Easy|38.84%||
 |504|[base-7](https://leetcode.com/problems/base-7/)| [javascript](.&#x2F;solutions&#x2F;504.base-7&#x2F;base-7.js) [java](.&#x2F;solutions&#x2F;504.base-7&#x2F;base-7.java)|Easy|44.53%||
@@ -206,6 +207,7 @@
 |551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i/)| [javascript](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.js) [java](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.java)|Easy|45.17%||
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [javascript](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.js) [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java)|Easy|63.05%||
 |764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [java](.&#x2F;solutions&#x2F;764.n-ary-tree-level-order-traversal&#x2F;n-ary-tree-level-order-traversal.java)|Easy|58.17%||
+|767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [javascript](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.js)|Easy|57.73%||
 |772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree/)| [java](.&#x2F;solutions&#x2F;772.construct-quad-tree&#x2F;construct-quad-tree.java)|Easy|54.41%||
 |778|[reorganize-string](https://leetcode.com/problems/reorganize-string/)| [java](.&#x2F;solutions&#x2F;778.reorganize-string&#x2F;reorganize-string.java)|Medium|41.01%||
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [javascript](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.js)|Easy|66.51%||
