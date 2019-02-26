@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-193/949(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-196/949(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-64-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-126-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-66-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-127-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-02-24</b>
+    <b>Last updated: 2019-02-26</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -167,6 +167,7 @@
 |401|[binary-watch](https://leetcode.com/problems/binary-watch/)| [java](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.java) [javascript](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.js)|Easy|45.03%||
 |404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [java](.&#x2F;solutions&#x2F;404.sum-of-left-leaves&#x2F;sum-of-left-leaves.java)|Easy|48.67%||
 |405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)| [java](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.java) [javascript](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.js)|Easy|41.64%||
+|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [javascript](.&#x2F;solutions&#x2F;406.queue-reconstruction-by-height&#x2F;queue-reconstruction-by-height.js)|Medium|58.84%||
 |409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome/)| [java](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.java)|Easy|47.36%||
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](.&#x2F;solutions&#x2F;412.fizz-buzz&#x2F;fizz-buzz.java)|Easy|58.81%||
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number/)| [java](.&#x2F;solutions&#x2F;414.third-maximum-number&#x2F;third-maximum-number.java)|Easy|28.61%||
@@ -206,9 +207,11 @@
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [javascript](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.js) [java](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.java)|Easy|46.16%||
 |551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i/)| [javascript](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.js) [java](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.java)|Easy|45.17%||
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [javascript](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.js) [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java)|Easy|63.05%||
+|722|[remove-comments](https://leetcode.com/problems/remove-comments/)||Medium|30.31%||
 |764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [java](.&#x2F;solutions&#x2F;764.n-ary-tree-level-order-traversal&#x2F;n-ary-tree-level-order-traversal.java)|Easy|58.17%||
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [javascript](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.js)|Easy|57.73%||
 |772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree/)| [java](.&#x2F;solutions&#x2F;772.construct-quad-tree&#x2F;construct-quad-tree.java)|Easy|54.41%||
 |778|[reorganize-string](https://leetcode.com/problems/reorganize-string/)| [java](.&#x2F;solutions&#x2F;778.reorganize-string&#x2F;reorganize-string.java)|Medium|41.01%||
+|879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| [javascript](.&#x2F;solutions&#x2F;879.maximize-distance-to-closest-person&#x2F;maximize-distance-to-closest-person.js)|Easy|40.42%||
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [javascript](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.js)|Easy|66.51%||
 
