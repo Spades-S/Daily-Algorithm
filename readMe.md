@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-196/949(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-198/949(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-66-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-68-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-127-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-02-26</b>
+    <b>Last updated: 2019-02-27</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -101,6 +101,7 @@
 |155|[min-stack](https://leetcode.com/problems/min-stack/)| [javascript](.&#x2F;solutions&#x2F;155.min-stack&#x2F;min-stack.js) [java](.&#x2F;solutions&#x2F;155.min-stack&#x2F;min-stack.java)|Easy|35.51%||
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [javascript](.&#x2F;solutions&#x2F;160.intersection-of-two-linked-lists&#x2F;intersection-of-two-linked-lists.js) [java](.&#x2F;solutions&#x2F;160.intersection-of-two-linked-lists&#x2F;intersection-of-two-linked-lists.java)|Easy|32.13%||
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](.&#x2F;solutions&#x2F;162.find-peak-element&#x2F;find-peak-element.java)|Medium|40.67%||
+|165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/)| [javascript](.&#x2F;solutions&#x2F;165.compare-version-numbers&#x2F;compare-version-numbers.js)|Medium|22.65%||
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|19.13%||
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [java](.&#x2F;solutions&#x2F;167.two-sum-ii-input-array-is-sorted&#x2F;two-sum-ii-input-array-is-sorted.java)|Easy|49.18%||
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/)| [java](.&#x2F;solutions&#x2F;168.excel-sheet-column-title&#x2F;excel-sheet-column-title.java) [javascript](.&#x2F;solutions&#x2F;168.excel-sheet-column-title&#x2F;excel-sheet-column-title.js)|Easy|28.47%||
@@ -206,6 +207,7 @@
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)| [java](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.java) [javascript](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.js)|Easy|44.99%||
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [javascript](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.js) [java](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.java)|Easy|46.16%||
 |551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i/)| [javascript](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.js) [java](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.java)|Easy|45.17%||
+|554|[brick-wall](https://leetcode.com/problems/brick-wall/)| [javascript](.&#x2F;solutions&#x2F;554.brick-wall&#x2F;brick-wall.js)|Medium|47.32%||
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [javascript](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.js) [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java)|Easy|63.05%||
 |722|[remove-comments](https://leetcode.com/problems/remove-comments/)||Medium|30.31%||
 |764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [java](.&#x2F;solutions&#x2F;764.n-ary-tree-level-order-traversal&#x2F;n-ary-tree-level-order-traversal.java)|Easy|58.17%||
