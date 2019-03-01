@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-200/949(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-202/949(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-69-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-71-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-128-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-02-28</b>
+    <b>Last updated: 2019-03-01</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -186,6 +186,7 @@
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [javascript](.&#x2F;solutions&#x2F;459.repeated-substring-pattern&#x2F;repeated-substring-pattern.js) [java](.&#x2F;solutions&#x2F;459.repeated-substring-pattern&#x2F;repeated-substring-pattern.java)|Easy|39.34%||
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java) [javascript](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.js)|Easy|69.99%||
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter/)| [javascript](.&#x2F;solutions&#x2F;463.island-perimeter&#x2F;island-perimeter.js)|Easy|60.20%||
+|468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address/)| [javascript](.&#x2F;solutions&#x2F;468.validate-ip-address&#x2F;validate-ip-address.js)|Medium|20.92%||
 |475|[heaters](https://leetcode.com/problems/heaters/)| [javascript](.&#x2F;solutions&#x2F;475.heaters&#x2F;heaters.js) [java](.&#x2F;solutions&#x2F;475.heaters&#x2F;heaters.java)|Easy|30.99%||
 |476|[number-complement](https://leetcode.com/problems/number-complement/)| [javascript](.&#x2F;solutions&#x2F;476.number-complement&#x2F;number-complement.js) [java](.&#x2F;solutions&#x2F;476.number-complement&#x2F;number-complement.java)|Easy|62.02%||
 |482|[license-key-formatting](https://leetcode.com/problems/license-key-formatting/)| [java](.&#x2F;solutions&#x2F;482.license-key-formatting&#x2F;license-key-formatting.java) [javascript](.&#x2F;solutions&#x2F;482.license-key-formatting&#x2F;license-key-formatting.js)|Easy|40.15%||
@@ -215,6 +216,7 @@
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [javascript](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.js)|Easy|57.73%||
 |772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree/)| [java](.&#x2F;solutions&#x2F;772.construct-quad-tree&#x2F;construct-quad-tree.java)|Easy|54.41%||
 |778|[reorganize-string](https://leetcode.com/problems/reorganize-string/)| [java](.&#x2F;solutions&#x2F;778.reorganize-string&#x2F;reorganize-string.java)|Medium|41.01%||
+|805|[escape-the-ghosts](https://leetcode.com/problems/escape-the-ghosts/)| [javascript](.&#x2F;solutions&#x2F;805.escape-the-ghosts&#x2F;escape-the-ghosts.js)|Medium|54.83%||
 |879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| [javascript](.&#x2F;solutions&#x2F;879.maximize-distance-to-closest-person&#x2F;maximize-distance-to-closest-person.js)|Easy|40.42%||
 |1005|[univalued-binary-tree](https://leetcode.com/problems/univalued-binary-tree/)| [javascript](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.js)|Easy|67.77%||
 |1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [javascript](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.js)|Easy|66.51%||
