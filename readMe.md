@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-204/949(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-206/953(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-73-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-128-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-74-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-129-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-03-02</b>
+    <b>Last updated: 2019-03-03</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -38,6 +38,7 @@
 |026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [javascript](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.js) [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|39.54%||
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.java)|Easy|43.47%||
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.java)|Easy|31.17%||
+|029|[divide-two-integers](https://leetcode.com/problems/divide-two-integers/)| [javascript](.&#x2F;solutions&#x2F;029.divide-two-integers&#x2F;divide-two-integers.js)|Medium|16.07%||
 |031|[next-permutation](https://leetcode.com/problems/next-permutation/)| [java](.&#x2F;solutions&#x2F;031.next-permutation&#x2F;next-permutation.java)|Medium|30.00%||
 |033|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [java](.&#x2F;solutions&#x2F;033.search-in-rotated-sorted-array&#x2F;search-in-rotated-sorted-array.java)|Medium|32.61%||
 |034|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [java](.&#x2F;solutions&#x2F;034.find-first-and-last-position-of-element-in-sorted-array&#x2F;find-first-and-last-position-of-element-in-sorted-array.java)|Medium|32.92%||
@@ -213,6 +214,7 @@
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [javascript](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.js) [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java)|Easy|63.05%||
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/)| [javascript](.&#x2F;solutions&#x2F;560.subarray-sum-equals-k&#x2F;subarray-sum-equals-k.js)|Medium|41.61%||
 |722|[remove-comments](https://leetcode.com/problems/remove-comments/)||Medium|30.31%||
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case/)| [javascript](.&#x2F;solutions&#x2F;742.to-lower-case&#x2F;to-lower-case.js)|Easy|76.25%||
 |764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [java](.&#x2F;solutions&#x2F;764.n-ary-tree-level-order-traversal&#x2F;n-ary-tree-level-order-traversal.java)|Easy|58.17%||
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [javascript](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.js)|Easy|57.73%||
 |772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree/)| [java](.&#x2F;solutions&#x2F;772.construct-quad-tree&#x2F;construct-quad-tree.java)|Easy|54.41%||
