@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-206/953(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-208/953(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-74-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-129-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-03-03</b>
+    <b>Last updated: 2019-03-05</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -184,6 +184,7 @@
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs/)| [javascript](.&#x2F;solutions&#x2F;447.number-of-boomerangs&#x2F;number-of-boomerangs.js)|Easy|49.07%||
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|52.63%||
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies/)| [javascript](.&#x2F;solutions&#x2F;455.assign-cookies&#x2F;assign-cookies.js)|Easy|48.02%||
+|456|[132-pattern](https://leetcode.com/problems/132-pattern/)| [javascript](.&#x2F;solutions&#x2F;456.132-pattern&#x2F;132-pattern.js)|Medium|27.46%||
 |458|[poor-pigs](https://leetcode.com/problems/poor-pigs/)| [javascript](.&#x2F;solutions&#x2F;458.poor-pigs&#x2F;poor-pigs.js)|Easy|44.86%||
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/)| [javascript](.&#x2F;solutions&#x2F;459.repeated-substring-pattern&#x2F;repeated-substring-pattern.js) [java](.&#x2F;solutions&#x2F;459.repeated-substring-pattern&#x2F;repeated-substring-pattern.java)|Easy|39.34%||
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java) [javascript](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.js)|Easy|69.99%||
@@ -206,6 +207,7 @@
 |524|[longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| [java](.&#x2F;solutions&#x2F;524.longest-word-in-dictionary-through-deleting&#x2F;longest-word-in-dictionary-through-deleting.java)|Medium|44.99%||
 |530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)| [javascript](.&#x2F;solutions&#x2F;530.minimum-absolute-difference-in-bst&#x2F;minimum-absolute-difference-in-bst.js) [java](.&#x2F;solutions&#x2F;530.minimum-absolute-difference-in-bst&#x2F;minimum-absolute-difference-in-bst.java)|Easy|49.72%||
 |532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)| [java](.&#x2F;solutions&#x2F;532.k-diff-pairs-in-an-array&#x2F;k-diff-pairs-in-an-array.java)|Easy|29.26%||
+|537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication/)| [javascript](.&#x2F;solutions&#x2F;537.complex-number-multiplication&#x2F;complex-number-multiplication.js)|Medium|65.00%||
 |538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)| [javascript](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.js) [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|49.86%||
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)| [java](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.java) [javascript](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.js)|Easy|44.99%||
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [javascript](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.js) [java](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.java)|Easy|46.16%||
