@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-208/953(140)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-210/957(140)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-78-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-129-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript</b>
     <br>
-    <b>Last updated: 2019-03-05</b>
+    <b>Last updated: 2019-03-13</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -72,7 +72,9 @@
 |083|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|41.83%||
 |088|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)| [java](.&#x2F;solutions&#x2F;088.merge-sorted-array&#x2F;merge-sorted-array.java) [javascript](.&#x2F;solutions&#x2F;088.merge-sorted-array&#x2F;merge-sorted-array.js)|Easy|34.76%||
 |090|[subsets-ii](https://leetcode.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|41.33%||
+|091|[decode-ways](https://leetcode.com/problems/decode-ways/)| [javascript](.&#x2F;solutions&#x2F;091.decode-ways&#x2F;decode-ways.js)|Medium|21.94%||
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](.&#x2F;solutions&#x2F;094.binary-tree-inorder-traversal&#x2F;binary-tree-inorder-traversal.java)|Medium|54.87%||
+|096|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/)| [javascript](.&#x2F;solutions&#x2F;096.unique-binary-search-trees&#x2F;unique-binary-search-trees.js)|Medium|45.26%||
 |100|[same-tree](https://leetcode.com/problems/same-tree/)| [java](.&#x2F;solutions&#x2F;100.same-tree&#x2F;same-tree.java) [javascript](.&#x2F;solutions&#x2F;100.same-tree&#x2F;same-tree.js)|Easy|49.34%||
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](.&#x2F;solutions&#x2F;101.symmetric-tree&#x2F;symmetric-tree.java) [javascript](.&#x2F;solutions&#x2F;101.symmetric-tree&#x2F;symmetric-tree.js)|Easy|42.62%||
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.java)|Easy|59.04%||
