@@ -3,14 +3,11 @@
  * @return {number[]}
  */
 var constructRectangle = function(area) {
-    const res = [];
-    let L = Math.ceil(Math.sqrt(area));
-    for(let i = L; ;i++){
-        if(area % i === 0){
-            res[0] = i;
-            res[1] = Math.floor(area / i);
-            break;
-        }
+    let sqrt = Math.floor(Math.sqrt(area));
+    let width = sqrt;
+    while((area % width) !== 0){
+        width--;
     }
-    return res;
+    return [Math.floor(area / width), width];
+    
 };

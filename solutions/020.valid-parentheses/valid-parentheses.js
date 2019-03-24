@@ -3,26 +3,33 @@
  * @return {boolean}
  */
 var isValid = function(s) {
- let stack = []
- let length = s.length
- for(let i = 0;i<length;i++){
-    switch(s[i]){
-        case '[':
-            stack.push(']')
-            break;
-        case '{':
-            stack.push('}')
-            break;
-        case '(':
-            stack.push(')')
-            break;
+    const stack = [];
+    for(let c of s){
+        switch(c){
+            case '(':
+            case '{':
+            case '[':
+                stack.push(c);
+                break;
+            case ')':
+                if(stack.pop() !== '('){
+                    return false;
+                }
+                break;
+            case ']':
+                if(stack.pop() !== '['){
+                    return false;
+                }
+                break;
+            case '}':
+                if(stack.pop() !== '{'){
+                    return false;
+                }
+                break;
             default:
-            if(stack.length ===0 || stack.pop() !== s[i]){
-                return false
-            }
-            
+                break;
+        }
     }
- }
-    return (stack.length===0)
-    
+    if(stack.length !== 0) return false;
+    return true;
 };

@@ -3,10 +3,9 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-    const store = [1, 2];
+    const res = [1, 2];
     for(let i = 2; i < n; i++){
-        const item = store[i - 1] + store[i - 2];
-        store.push(item);
+        res.push(res[i - 1] + res[i - 2]);
     }
-    return store[n -1];
+    return res[n - 1];
 };

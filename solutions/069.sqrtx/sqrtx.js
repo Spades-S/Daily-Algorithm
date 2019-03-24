@@ -3,16 +3,18 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    let start = 1, end = x + 1;
-    while(start < end){
-        let mid = parseInt(start + (end - start) / 2, 10);
-        if(mid*mid === x){
+    
+    let left = 1, right = x;
+    while(left < right){
+        let mid = Math.floor(left + (right - left) / 2);
+        if(mid**2 === x){
             return mid;
-        }else if(mid*mid > x){
-            end = mid;
+        }else if(mid**2 > x){
+            right = mid;
         }else{
-            start = mid + 1;
+            left = mid + 1;
         }
     }
-    return start - 1;
+    if(left** 2 > x) return left - 1;
+    return left;
 };
